@@ -1,0 +1,31 @@
+html { overflow-y: scroll; }
+body { padding-top: 60px; }
+section { overflow: auto; }
+textarea { resize: vertical; }
+.center { text-align: center; }
+.center h1 { margin-bottom: 10px; }
+
+
+/* mainContent */
+
+.mainContent { padding: 50px; }
+.freeAds {
+        font-size: 20px;
+        font-weight: bold;
+        width: 232px;
+        height: 49px;
+        line-height: 49px;
+        margin-top: 50px;
+        background-color: #eef5ed;
+        border: 2px solid #084d16;
+}
+.freeAds a { color: #084d16; }
+.freeAds a:hover { color: #804d16; }
+.operatingInfo { font-size: 16px; margin-top: 10px; }
+.operatingInfo a { color: #000; }
+.operatingInfo a:hover { color: #000; }
+.search { margin-top: 50px; }
+.search a { color: #000; }
+.search a:hover { color: #000; }
+.footer a { color: #000; }
+.footer a:hover { color: #000; }
